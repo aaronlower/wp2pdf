@@ -1,4 +1,5 @@
 this readme was auto-created using Bing Copilot and enhanced by GitHub Copilot
+most of this code was written by Claude.ai
 
 # WP2PDF
 
